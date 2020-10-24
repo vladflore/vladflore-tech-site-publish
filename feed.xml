@@ -3,10 +3,10 @@
   <channel>
     <title>Horace</title>
     <description>Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Oct 2020 14:19:16 +0200</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2020 14:19:16 +0200</lastBuildDate>
+    <link>/vladflore-tech-site-publish/</link>
+    <atom:link href="/vladflore-tech-site-publish/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Oct 2020 14:23:14 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2020 14:23:14 +0200</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -53,8 +53,8 @@
 &lt;p&gt;In September 2015, Node.js v0.12 and io.js v3.3 were merged back together into Node v4.0. This brought V8 ES6 features into Node.js, and a long-term support release cycle. As of 2016, the io.js website recommends that developers switch back to Node.js and that no further releases of io.js are planned due to the merger.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
-        <link>/Installing-multiple-versions-of-node-js</link>
-        <guid isPermaLink="true">/Installing-multiple-versions-of-node-js</guid>
+        <link>/vladflore-tech-site-publish/Installing-multiple-versions-of-node-js</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/Installing-multiple-versions-of-node-js</guid>
         
         <category>JavaScript</category>
         
@@ -88,8 +88,8 @@
 &lt;p&gt;It is also used in server-side network programming with runtime environments such as Node.js, game development and the creation of desktop and mobile applications.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 May 2018 00:00:00 +0200</pubDate>
-        <link>/javascript-design-patterns</link>
-        <guid isPermaLink="true">/javascript-design-patterns</guid>
+        <link>/vladflore-tech-site-publish/javascript-design-patterns</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/javascript-design-patterns</guid>
         
         <category>JavaScript</category>
         
@@ -129,8 +129,8 @@
 &lt;p&gt;Blockchains have been described as a value-exchange protocol. This blockchain-based exchange of value can be completed more quickly, more safely and more cheaply than with traditional systems. A blockchain can assign title rights because it provides a record that compels offer and acceptance. &lt;a href=&quot;https://en.wikipedia.org/wiki/Blockchain&quot;&gt;(Source)&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Apr 2018 00:00:00 +0200</pubDate>
-        <link>/how-to-start-learning-blockchain-development</link>
-        <guid isPermaLink="true">/how-to-start-learning-blockchain-development</guid>
+        <link>/vladflore-tech-site-publish/how-to-start-learning-blockchain-development</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/how-to-start-learning-blockchain-development</guid>
         
         <category>Tips</category>
         
@@ -174,8 +174,8 @@ Forum spamming. Usually advertised as some variant of “email processing”, th
 &lt;p&gt;Some similar schemes do not advertise work that would be performed at home, but may instead offer occasional, sporadic work away from home for large payments, paired with a lot of free time.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Apr 2018 00:00:00 +0200</pubDate>
-        <link>/working-from-home</link>
-        <guid isPermaLink="true">/working-from-home</guid>
+        <link>/vladflore-tech-site-publish/working-from-home</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/working-from-home</guid>
         
         <category>Startup</category>
         
@@ -225,8 +225,8 @@ Forum spamming. Usually advertised as some variant of “email processing”, th
 &lt;p&gt;AngularJS is the frontend part of the &lt;strong&gt;MEAN stack&lt;/strong&gt;, consisting of MongoDB database, &lt;a href=&quot;https://expressjs.com/&quot;&gt;Express.js&lt;/a&gt; web application server framework, Angular.js itself, and Node.js server runtime environment.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Mar 2018 00:00:00 +0100</pubDate>
-        <link>/choosing-the-best-front-end-framework</link>
-        <guid isPermaLink="true">/choosing-the-best-front-end-framework</guid>
+        <link>/vladflore-tech-site-publish/choosing-the-best-front-end-framework</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/choosing-the-best-front-end-framework</guid>
         
         <category>JavaScript</category>
         
@@ -301,8 +301,8 @@ Forum spamming. Usually advertised as some variant of “email processing”, th
 &lt;p&gt;If you’re writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping &lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt; on a new line will create a sleek divider, anywhere you want it.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Mar 2018 00:00:00 +0100</pubDate>
-        <link>/react-conferences-to-attend-in-2018</link>
-        <guid isPermaLink="true">/react-conferences-to-attend-in-2018</guid>
+        <link>/vladflore-tech-site-publish/react-conferences-to-attend-in-2018</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/react-conferences-to-attend-in-2018</guid>
         
         <category>Startups</category>
         
@@ -324,8 +324,8 @@ Forum spamming. Usually advertised as some variant of “email processing”, th
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 12 Mar 2018 00:00:00 +0100</pubDate>
-        <link>/options-for-creating-new-site-with-jekyll</link>
-        <guid isPermaLink="true">/options-for-creating-new-site-with-jekyll</guid>
+        <link>/vladflore-tech-site-publish/options-for-creating-new-site-with-jekyll</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/options-for-creating-new-site-with-jekyll</guid>
         
         <category>Jekyll</category>
         
@@ -351,8 +351,8 @@ Forum spamming. Usually advertised as some variant of “email processing”, th
 &lt;p&gt;Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Feb 2018 00:00:00 +0100</pubDate>
-        <link>/what-is-jekyll</link>
-        <guid isPermaLink="true">/what-is-jekyll</guid>
+        <link>/vladflore-tech-site-publish/what-is-jekyll</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/what-is-jekyll</guid>
         
         <category>Jekyll</category>
         
@@ -419,8 +419,8 @@ Forum spamming. Usually advertised as some variant of “email processing”, th
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 07 Feb 2018 00:00:00 +0100</pubDate>
-        <link>/advanced-markdown-tips</link>
-        <guid isPermaLink="true">/advanced-markdown-tips</guid>
+        <link>/vladflore-tech-site-publish/advanced-markdown-tips</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/advanced-markdown-tips</guid>
         
         <category>Jekyll</category>
         
@@ -448,8 +448,8 @@ Forum spamming. Usually advertised as some variant of “email processing”, th
 &lt;p&gt;Apple Watch was first unveiled after a classic and ever infamous “We do have ‘one more thing’…” slide, which heard enormous applause, on September 9, 2014 during a press event which also saw the introduction of the iPhone 6. After the reveal video, the auditorium erupted with applause while Tim Cook rolled back his sleeve, revealing an Apple Watch on his wrist. Speaking about the device, Apple CEO Tim Cook explained that Apple Watch was “a new, intimate way to communicate from your wrist, and a comprehensive health and fitness device.”&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
-        <link>/a-week-with-the-apple-watch</link>
-        <guid isPermaLink="true">/a-week-with-the-apple-watch</guid>
+        <link>/vladflore-tech-site-publish/a-week-with-the-apple-watch</link>
+        <guid isPermaLink="true">/vladflore-tech-site-publish/a-week-with-the-apple-watch</guid>
         
         <category>Tips</category>
         
